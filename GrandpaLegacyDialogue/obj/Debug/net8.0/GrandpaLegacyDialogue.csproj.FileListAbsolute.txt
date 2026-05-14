@@ -1,8 +1,0 @@
-/Users/aaron/GrandpaLegacy-Dialogue/GrandpaLegacyDialogue/bin/Debug/net8.0/GrandpaLegacyDialogue.deps.json
-/Users/aaron/GrandpaLegacy-Dialogue/GrandpaLegacyDialogue/bin/Debug/net8.0/GrandpaLegacyDialogue.dll
-/Users/aaron/GrandpaLegacy-Dialogue/GrandpaLegacyDialogue/obj/Debug/net8.0/GrandpaLegacyDialogue.csproj.AssemblyReference.cache
-/Users/aaron/GrandpaLegacy-Dialogue/GrandpaLegacyDialogue/obj/Debug/net8.0/GrandpaLegacyDialogue.GeneratedMSBuildEditorConfig.editorconfig
-/Users/aaron/GrandpaLegacy-Dialogue/GrandpaLegacyDialogue/obj/Debug/net8.0/GrandpaLegacyDialogue.AssemblyInfoInputs.cache
-/Users/aaron/GrandpaLegacy-Dialogue/GrandpaLegacyDialogue/obj/Debug/net8.0/GrandpaLegacyDialogue.AssemblyInfo.cs
-/Users/aaron/GrandpaLegacy-Dialogue/GrandpaLegacyDialogue/obj/Debug/net8.0/GrandpaLegacyDialogue.csproj.CoreCompileInputs.cache
-/Users/aaron/GrandpaLegacy-Dialogue/GrandpaLegacyDialogue/obj/Debug/net8.0/GrandpaLegacyDialogue.dll
