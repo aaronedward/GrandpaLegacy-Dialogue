@@ -1,0 +1,10 @@
+{
+  "Name": "Grandpa Legacy Dialogue",
+  "Author": "aaron",
+  "Version": "1.0.0",
+  "Description": "Adds positive dialogue about grandpa to the game.",
+  "UniqueID": "aaron.GrandpaLegacyDialogue",
+  "EntryDll": "GrandpaLegacyDialogue.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
